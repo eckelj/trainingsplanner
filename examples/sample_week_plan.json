@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-09-23T08:00:00",
+    "type": "Ride",
+    "name": "VO2 Max 5x3min Intervals",
+    "description": "Warmup\n- 12m 55-65% 90rpm\n- 3x 30s 115% / 30s 55%\n- 3m 55%\n\nMain Set 5x\n- 3m 112-118% 100rpm Max sustainable aerobic power\n- 3m 50% 85rpm Recovery\n\nCooldown\n- 10m 50%"
+  },
+  {
+    "date": "2026-09-23T17:30:00",
+    "type": "WeightTraining",
+    "name": "Gym - Lower Body Power & Core",
+    "description": "Focus: Power & neuromuscular recruitment on same day as VO2max to consolidate hard stress.\n\nWarmup:\n- 5m hip mobility & dynamic stretching\n\nMain Lifts:\n- Trap Bar Deadlift: 4x5 @ RPE 7.5\n- Romanian Deadlift (RDL): 3x8 @ RPE 7\n- Bulgarian Split Squat: 3x8/side\n- Standing Calf Raises: 3x12\n\nCore:\n- Ab Wheel Rollouts: 3x10\n- Side Planks: 3x45s"
+  },
+  {
+    "date": "2026-09-24T18:00:00",
+    "type": "Ride",
+    "name": "Active Recovery Spin",
+    "description": "Easy Spin\n- 40m 45-55% 90-95rpm Keep HR Zone 1 strictly"
+  },
+  {
+    "date": "2026-09-25T17:30:00",
+    "type": "WeightTraining",
+    "name": "Gym - Upper Body & Posture",
+    "description": "Focus: Postural endurance for drop bars & aero position.\n\nMain Lifts:\n- Standing Overhead Press: 4x6-8\n- Chest-Supported DB Row: 4x8-10\n- Incline DB Bench Press: 3x8-10\n- Face Pulls: 3x15\n\nCore Anti-Rotation:\n- Pallof Press: 3x12/side\n- Planks: 3x60s"
+  },
+  {
+    "date": "2026-09-26T09:30:00",
+    "type": "Ride",
+    "name": "Sweet Spot 3x10min",
+    "description": "Warmup\n- 15m 55-65%\n- 3x 1m 95% / 1m 55%\n- 2m 55%\n\nMain Set 3x\n- 10m 88-92% 90rpm\n- 4m 55% 85rpm\n\nCooldown\n- 10m 50%"
+  },
+  {
+    "date": "2026-09-27T08:30:00",
+    "type": "Ride",
+    "name": "Weekend Aerobic Endurance (Zone 2)",
+    "description": "Warmup\n- 15m 55-60%\n\nMain Set\n- 120m 65-72% 88-94rpm Conversational pace, steady aerobic fueling\n\nCooldown\n- 10m 50%"
+  }
+]
